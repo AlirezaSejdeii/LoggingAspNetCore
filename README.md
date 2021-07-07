@@ -16,3 +16,7 @@ if you want to use docker you can use below code to run it
 # Optional Config
 
 In ```appsettings.json``` Serilog Section have all logging settings there.
+
+#Give Star
+
+If this repository is usful for you pleas give star.Thanks
