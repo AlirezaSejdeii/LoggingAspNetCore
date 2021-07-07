@@ -1,0 +1,162 @@
+07/07/2021 17:33:38 Application Start
+07/07/2021 17:33:40 You Requested The Home Page
+07/07/2021 17:33:40 HTTP "GET" "/" responded 200 in 298.2669 ms
+07/07/2021 17:34:35  Application Start
+07/07/2021 17:34:36  You Requested The Home Page
+07/07/2021 17:34:36  HTTP "GET" "/" responded 200 in 162.7012 ms
+07/07/2021 17:35:07 Information Application Start
+07/07/2021 17:35:08 Information You Requested The Home Page
+07/07/2021 17:35:08 Information HTTP "GET" "/" responded 200 in 172.1354 ms
+07/07/2021 17:35:14 Information Application Start
+07/07/2021 17:35:15 Information You Requested The Home Page
+07/07/2021 17:35:15 Information HTTP "GET" "/" responded 200 in 186.1730 ms
+07/07/2021 17:42:12 Application Start
+07/07/2021 17:42:13 You Requested The Home Page
+07/07/2021 17:42:13 HTTP "GET" "/" responded 200 in 217.3827 ms
+07/07/2021 17:42:28 Application Start
+07/07/2021 17:42:31 You Requested The Home Page
+07/07/2021 17:42:31 HTTP "GET" "/" responded 200 in 244.9061 ms
+07/07/2021 20:50:29 Application Start
+07/07/2021 20:50:39 You Requested The Home Page
+07/07/2021 20:50:39 HTTP "GET" "/" responded 200 in 2595.8827 ms
+07/07/2021 20:51:04 You Requested The Home Page
+07/07/2021 20:51:04 HTTP "GET" "/" responded 200 in 24.3484 ms
+07/07/2021 20:51:05 You Requested The Home Page
+07/07/2021 20:51:05 HTTP "GET" "/" responded 200 in 2.2474 ms
+07/07/2021 20:51:05 You Requested The Home Page
+07/07/2021 20:51:05 HTTP "GET" "/" responded 200 in 2.5372 ms
+07/07/2021 20:51:31 You Requested The Home Page
+07/07/2021 20:51:31 HTTP "GET" "/" responded 200 in 3.7487 ms
+07/07/2021 20:51:31 You Requested The Home Page
+07/07/2021 20:51:31 HTTP "GET" "/" responded 200 in 1.9248 ms
+07/07/2021 20:51:32 HTTP "GET" "/Privacy" responded 200 in 9.9211 ms
+07/07/2021 20:52:40 HTTP "GET" "/Privacy" responded 200 in 24.4221 ms
+07/07/2021 20:52:41 HTTP "GET" "/Privacy" responded 200 in 1.0822 ms
+07/07/2021 20:52:41 HTTP "GET" "/Privacy" responded 200 in 0.8673 ms
+07/07/2021 20:52:41 HTTP "GET" "/Privacy" responded 200 in 0.4705 ms
+07/07/2021 20:52:41 HTTP "GET" "/Privacy" responded 200 in 192.2827 ms
+07/07/2021 21:01:52 Application Start
+07/07/2021 21:01:55 HTTP "GET" "/Privacy" responded 200 in 102.1922 ms
+07/07/2021 21:01:55 HTTP "GET" "/Privacy" responded 200 in 204.9343 ms
+07/07/2021 21:01:55 You Requested The Home Page
+07/07/2021 21:01:55 HTTP "GET" "/" responded 200 in 27.3150 ms
+07/07/2021 21:01:55 You Requested The Home Page
+07/07/2021 21:01:55 HTTP "GET" "/" responded 200 in 2.7991 ms
+07/07/2021 21:01:58 HTTP "GET" "/Privacy" responded 200 in 1.6864 ms
+07/07/2021 21:01:58 HTTP "GET" "/Privacy" responded 200 in 0.5964 ms
+07/07/2021 21:01:58 HTTP "GET" "/Privacy" responded 200 in 0.7549 ms
+07/07/2021 21:01:58 HTTP "GET" "/Privacy" responded 200 in 1.3949 ms
+07/07/2021 21:01:58 You Requested The Home Page
+07/07/2021 21:01:58 HTTP "GET" "/" responded 200 in 53.0809 ms
+07/07/2021 21:01:59 HTTP "GET" "/Privacy" responded 200 in 2.1153 ms
+07/07/2021 21:01:59 HTTP "GET" "/Privacy" responded 200 in 4.3472 ms
+07/07/2021 21:01:59 HTTP "GET" "/Privacy" responded 200 in 2.5724 ms
+07/07/2021 21:01:59 HTTP "GET" "/Privacy" responded 200 in 0.5030 ms
+07/07/2021 21:01:59 HTTP "GET" "/Privacy" responded 200 in 0.6759 ms
+07/07/2021 21:01:59 HTTP "GET" "/Privacy" responded 200 in 0.5928 ms
+07/07/2021 21:02:00 HTTP "GET" "/Privacy" responded 200 in 0.4389 ms
+07/07/2021 21:02:00 HTTP "GET" "/Privacy" responded 200 in 0.6215 ms
+07/07/2021 21:02:00 HTTP "GET" "/Privacy" responded 200 in 0.6008 ms
+07/07/2021 21:02:00 HTTP "GET" "/Privacy" responded 200 in 0.5787 ms
+07/07/2021 21:02:00 HTTP "GET" "/Privacy" responded 200 in 0.7396 ms
+07/07/2021 21:02:10 HTTP "GET" "/Privacy" responded 200 in 0.6800 ms
+07/07/2021 21:02:10 HTTP "GET" "/Privacy" responded 200 in 0.4519 ms
+07/07/2021 21:02:10 HTTP "GET" "/Privacy" responded 200 in 0.9060 ms
+07/07/2021 21:02:10 HTTP "GET" "/Privacy" responded 200 in 0.7188 ms
+07/07/2021 21:02:10 You Requested The Home Page
+07/07/2021 21:02:10 HTTP "GET" "/" responded 200 in 4.3383 ms
+07/07/2021 21:02:10 HTTP "GET" "/Privacy" responded 200 in 0.7393 ms
+07/07/2021 21:02:11 HTTP "GET" "/Privacy" responded 200 in 0.5212 ms
+07/07/2021 21:02:11 HTTP "GET" "/Privacy" responded 200 in 0.6973 ms
+07/07/2021 21:02:11 HTTP "GET" "/Privacy" responded 200 in 0.7768 ms
+07/07/2021 21:02:11 HTTP "GET" "/Privacy" responded 200 in 0.4519 ms
+07/07/2021 21:02:11 You Requested The Home Page
+07/07/2021 21:02:11 HTTP "GET" "/" responded 200 in 2.4712 ms
+07/07/2021 21:02:12 You Requested The Home Page
+07/07/2021 21:02:12 HTTP "GET" "/" responded 200 in 2.5191 ms
+07/07/2021 21:02:12 You Requested The Home Page
+07/07/2021 21:02:12 HTTP "GET" "/" responded 200 in 4.8149 ms
+07/07/2021 21:02:13 You Requested The Home Page
+07/07/2021 21:02:13 HTTP "GET" "/" responded 200 in 2.5018 ms
+07/07/2021 21:02:13 You Requested The Home Page
+07/07/2021 21:02:13 HTTP "GET" "/" responded 200 in 1.9726 ms
+07/07/2021 21:02:13 You Requested The Home Page
+07/07/2021 21:02:13 HTTP "GET" "/" responded 200 in 2.1037 ms
+07/07/2021 21:02:14 You Requested The Home Page
+07/07/2021 21:02:14 HTTP "GET" "/" responded 200 in 1.7319 ms
+07/07/2021 21:02:14 You Requested The Home Page
+07/07/2021 21:02:14 HTTP "GET" "/" responded 200 in 2.8008 ms
+07/07/2021 21:02:14 You Requested The Home Page
+07/07/2021 21:02:14 HTTP "GET" "/" responded 200 in 2.6706 ms
+07/07/2021 21:02:14 You Requested The Home Page
+07/07/2021 21:02:14 HTTP "GET" "/" responded 200 in 2.0670 ms
+07/07/2021 21:02:14 You Requested The Home Page
+07/07/2021 21:02:14 HTTP "GET" "/" responded 200 in 2.6181 ms
+07/07/2021 21:02:15 You Requested The Home Page
+07/07/2021 21:02:15 HTTP "GET" "/" responded 200 in 24.1908 ms
+07/07/2021 21:02:51 Application Start
+07/07/2021 21:02:52 this is very bad
+07/07/2021 21:02:52 HTTP "GET" "/" responded 200 in 149.9196 ms
+07/07/2021 21:02:58 this is very bad
+07/07/2021 21:02:58 HTTP "GET" "/" responded 200 in 7.8612 ms
+07/07/2021 21:02:58 this is very bad
+07/07/2021 21:02:58 HTTP "GET" "/" responded 200 in 3.5527 ms
+07/07/2021 21:02:58 this is very bad
+07/07/2021 21:02:58 HTTP "GET" "/" responded 200 in 2.6345 ms
+07/07/2021 21:02:58 this is very bad
+07/07/2021 21:02:58 HTTP "GET" "/" responded 200 in 2.4506 ms
+07/07/2021 21:02:59 this is very bad
+07/07/2021 21:02:59 HTTP "GET" "/" responded 200 in 5.5836 ms
+07/07/2021 21:02:59 this is very bad
+07/07/2021 21:02:59 HTTP "GET" "/" responded 200 in 1.9051 ms
+07/07/2021 21:02:59 this is very bad
+07/07/2021 21:02:59 HTTP "GET" "/" responded 200 in 1.8744 ms
+07/07/2021 21:02:59 this is very bad
+07/07/2021 21:02:59 HTTP "GET" "/" responded 200 in 2.4180 ms
+07/07/2021 21:03:42 this is very bad
+07/07/2021 21:03:42 HTTP "GET" "/" responded 200 in 2.7725 ms
+07/07/2021 21:03:42 this is very bad
+07/07/2021 21:03:42 HTTP "GET" "/" responded 200 in 1.8190 ms
+07/07/2021 21:03:42 this is very bad
+07/07/2021 21:03:42 HTTP "GET" "/" responded 200 in 2.5889 ms
+07/07/2021 21:03:42 this is very bad
+07/07/2021 21:03:42 HTTP "GET" "/" responded 200 in 2.5187 ms
+07/07/2021 21:03:42 this is very bad
+07/07/2021 21:03:42 HTTP "GET" "/" responded 200 in 1.8578 ms
+07/07/2021 21:03:42 this is very bad
+07/07/2021 21:03:42 HTTP "GET" "/" responded 200 in 1.9050 ms
+07/07/2021 21:03:43 this is very bad
+07/07/2021 21:03:43 HTTP "GET" "/" responded 200 in 18.6846 ms
+07/07/2021 21:03:43 this is very bad
+07/07/2021 21:03:43 HTTP "GET" "/" responded 200 in 2.6649 ms
+07/07/2021 21:03:43 this is very bad
+07/07/2021 21:03:43 HTTP "GET" "/" responded 200 in 2.2735 ms
+07/07/2021 21:03:46 this is very bad
+07/07/2021 21:03:46 HTTP "GET" "/" responded 200 in 3.1870 ms
+07/07/2021 21:03:46 this is very bad
+07/07/2021 21:03:46 HTTP "GET" "/" responded 200 in 2.9252 ms
+07/07/2021 21:03:47 this is very bad
+07/07/2021 21:03:47 HTTP "GET" "/" responded 200 in 2.4904 ms
+07/07/2021 21:03:47 this is very bad
+07/07/2021 21:03:47 HTTP "GET" "/" responded 200 in 2.5582 ms
+07/07/2021 21:03:47 this is very bad
+07/07/2021 21:03:47 HTTP "GET" "/" responded 200 in 2.8345 ms
+07/07/2021 21:03:47 this is very bad
+07/07/2021 21:03:47 HTTP "GET" "/" responded 200 in 2.2712 ms
+07/07/2021 21:03:47 this is very bad
+07/07/2021 21:03:47 HTTP "GET" "/" responded 200 in 2.6848 ms
+07/07/2021 21:03:47 this is very bad
+07/07/2021 21:03:47 HTTP "GET" "/" responded 200 in 2.7707 ms
+07/07/2021 21:03:48 this is very bad
+07/07/2021 21:03:48 this is very bad
+07/07/2021 21:03:48 HTTP "GET" "/" responded 200 in 28.1902 ms
+07/07/2021 21:03:48 HTTP "GET" "/" responded 200 in 8.2598 ms
+07/07/2021 21:03:48 this is very bad
+07/07/2021 21:03:48 HTTP "GET" "/" responded 200 in 1.9619 ms
+07/07/2021 21:03:48 this is very bad
+07/07/2021 21:03:48 HTTP "GET" "/" responded 200 in 3.4656 ms
+07/07/2021 21:03:48 this is very bad
+07/07/2021 21:03:48 HTTP "GET" "/" responded 200 in 2.0405 ms
+07/07/2021 21:12:32 Application Start
+07/07/2021 21:12:33 this is very bad
+07/07/2021 21:12:33 HTTP "GET" "/" responded 200 in 169.9400 ms
